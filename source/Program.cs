@@ -10,6 +10,7 @@ namespace CodilityTemplate
     {
         static void Main(string[] args)
         {
+            ///Benchmarking Example
             var summary = BenchmarkRunner.Run<LinqVsForEachVsFor>();
 
             Console.ReadLine();

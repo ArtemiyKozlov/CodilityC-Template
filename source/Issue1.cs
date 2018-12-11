@@ -8,5 +8,6 @@ namespace CodilityTemplate
 {
     class Issue1
     {
+        /// Copy solution method here
     }
 }
