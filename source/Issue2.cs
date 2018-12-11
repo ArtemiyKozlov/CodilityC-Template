@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Codility_template
+namespace CodilityTemplate
 {
-    class Issue1
+    class Issue2
     {
-        public int solution(int[] A)
-        {
-            return 0;
-        }
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Codility_template
+namespace CodilityTemplate
 {
-    class Tests2
+    class Issue3
     {
     }
 }

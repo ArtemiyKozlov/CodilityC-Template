@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityTemplate", "CodilityTemplate\CodilityTemplate.csproj", "{042BA1AB-A3F7-4922-B91C-B19315E64B32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityTemplate", "source\CodilityTemplate.csproj", "{042BA1AB-A3F7-4922-B91C-B19315E64B32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
